@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dotiyal
+- 👋 Hi, I’m Shailendra Dotiyal
 - 👀 I’m interested in Deep Learning
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Deep Learning/CV
