@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dotiayl" alt="dotiyal" /> </p>
 
   - 👀 I’m interested in Deep Learning
-  - 🌱 I’m currently learning Mlops
+  - 🌱 I’m currently learning MLops
   - 💞️ I’m looking to collaborate on Deep Learning(CV/LLM)
   - 📫 How to reach me sid.newtehri@gmail.com
   - Reach out directly on Linkedin: https://www.linkedin.com/in/dotiyal/
